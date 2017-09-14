@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matt-schmitz-narvar/chatbot/issues"
   },
-  "homepage": "https://github.com/matt-schmitz-narvar/chatbot#readme"
+  "homepage": "https://github.com/matt-schmitz-narvar/chatbot#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
