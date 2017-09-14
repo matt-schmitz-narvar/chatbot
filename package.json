@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "sample chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-schmitz-narvar/chatbot.git"
+  },
+  "author": "matt schmitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-schmitz-narvar/chatbot/issues"
+  },
+  "homepage": "https://github.com/matt-schmitz-narvar/chatbot#readme"
+}
